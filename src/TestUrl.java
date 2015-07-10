@@ -19,7 +19,7 @@ public class TestUrl {
 		int[] coin={1,2,3,4,5,6,7,8};
 		for (int i = 0; i < coin.length; i++) {
 			System.out.println(i);
-			System.out.println("----------上面是i,-----------下面是值");
+			System.out.println("--------sssss--上面是i,-----------下面是值");
 			System.out.println(coin[i]);
 		}
 		
